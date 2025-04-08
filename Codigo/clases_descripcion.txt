@@ -1,0 +1,8 @@
+n00000	bird
+n00001	cat
+n00002	deer
+n00003	dog
+n00004	frog
+n00005	horse
+n00006	ship
+n00007	truck
